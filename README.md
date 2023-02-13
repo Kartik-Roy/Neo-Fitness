@@ -11,4 +11,4 @@ Mobile Gym Website
 
 
 
-Click [here](https://kartik-roy.github.io/Neo-Fitness/1st.png) to visit this website. 
+Click [here](https://kartik-roy.github.io/Neo-Fitness/) to visit this website. 
